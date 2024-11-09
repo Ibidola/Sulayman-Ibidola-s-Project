@@ -4,7 +4,8 @@
 
 ### Objectives
 
-To be able to use basic Excel Codes for calculations and analysis
+- To be able to use basic Excel tools for calculations and analysis
+- Comparison between data obtained fpr Excel Tables and PivotTable 
 
 ---
 
